@@ -36,6 +36,6 @@
     "graphql-playground-middleware-express": "^1.7.11",
     "graphql-voyager": "^1.0.0-rc.26",
     "grpc": "^1.18.0",
-    "log4js": "^4.0.2"
+    "log4js": "^6.4.0"
   }
 }
